@@ -16,6 +16,8 @@ let generateExcuse = () => {
     "puppy",
     "Funko Pop",
     "cyclist"
+    "teddy bear"
+    "creepy doll"
   ];
   let action = [
     "stole my",
@@ -24,6 +26,9 @@ let generateExcuse = () => {
     "airfryed",
     "ran over my",
     "blended my"
+    "hammer smashed their"
+    "ate"
+    "rolled into a burrito"
   ];
   let possession = [
     "favorite blanket",
@@ -34,6 +39,9 @@ let generateExcuse = () => {
     "Iwatch",
     "phone charger",
     "reusable waterbottle"
+    "Nintendo Switch"
+    "popsocket"
+    "gravy boat"
   ];
   let where = [
     "on my back patio",
@@ -41,6 +49,9 @@ let generateExcuse = () => {
     "in the spaceship",
     "on the stoop",
     "in front of Panda Express"
+    "on a cheap flight"
+    "in the sims"
+    "in the bad place"
   ];
 
   let proIndex = Math.floor(Math.random() * pronoun.length);
